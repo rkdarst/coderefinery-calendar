@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:/ics.py/2020.1/Europe/Stockholm
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+RDATE:19700329T020000
+TZNAME:CEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+RDATE:19701025T030000
+TZNAME:CET
+END:STANDARD
+LAST-MODIFIED:20200620T153818Z
+X-LIC-LOCATION:Europe/Stockholm
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC+03:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0300
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+03:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220131T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:f640e282-d774-47dc-9337-e9e90e3177ce@f640.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220228T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:410ca881-56e5-4372-9ee9-82ac0c9dbcfd@410c.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220404T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:3ff7fe13-4314-49d2-a2a3-851024f20e7e@3ff7.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220502T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:2d717aad-5fbf-4344-bc79-bee2c5a345c8@2d71.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220606T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:b4ae81b3-c416-43ea-a3d6-c58f9f073fb6@b4ae.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220704T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:54471fbf-1399-4ea2-ace9-3d23f9bb5bd4@5447.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220801T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:be22a697-5665-47e4-a22d-0813b010a88a@be22.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220905T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:1164b82a-3cd8-4378-a732-7c85510cbcae@1164.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20221003T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:991017d5-9b4a-42e3-bea1-264e06dbe775@9910.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20221107T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:1d6587d1-705a-4d78-88f0-3699ed7e03ad@1d65.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20221205T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:250ff997-a164-4370-aa79-0ccdfe6b539f@250f.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220221T140000
+DURATION:PT30M
+SUMMARY:CodeRefinery team meeting
+UID:71a58184-eed4-4843-bca9-c9d0651e7c3a@71a5.org
+DESCRIPTION:CodeRefinery team meeting\n\nAgenda and connection details: 
+ https://hackmd.io/@coderefinery/team-meeting
+LOCATION:https://hackmd.io/@coderefinery/team-meeting
+DTSTAMP:20220428T094656Z
+RRULE:FREQ=WEEKLY;UNTIL=20221231T000000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220519T110000
+DTEND;TZID="UTC+03:00":20220520T140000
+SUMMARY:CodeRefinery Kick-off 2022
+UID:a604f3f9-6f85-4800-ba99-40bb1497223f@a604.org
+DESCRIPTION:Details: https://hackmd.io/@coderefinery/kickoff2022\n\nIn-
+ person\, we will try to make online participation\, too.
+LOCATION:Aalto University\, Finland
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220202T120000
+DURATION:PT4H
+SUMMARY:Getting started with scientific computing/HPC
+UID:a817db3f-06d8-4134-aa15-e0c301b20440@a817.org
+DESCRIPTION:This event introduces you to scientific computing and 
+ using\ncomputer clusters.  The first day is suitable for everyone\, 
+ days\n2-3 are suitable for those who want to learn to use a 
+ computer\ncluster.\n\nday 1: 
+ https://scicomp.aalto.fi/training/scip/getting-started-with-scientific-
+ computing/\nday 2: https://scicomp.aalto.fi/training/scip/winter-
+ kickstart/
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20220428T094656Z
+RRULE:FREQ=DAILY;UNTIL=20220204T130000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220322T085000
+DURATION:PT3H40M
+SUMMARY:CodeRefinery workshop\, March 2022
+UID:8dd5bbe0-2f9e-40a7-a558-69618cae90f0@8dd5.org
+LOCATION:https://coderefinery.github.io/2022-03-22-workshop/
+DTSTAMP:20220428T094656Z
+RRULE:FREQ=DAILY;UNTIL=20220324T123000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220329T085000
+DURATION:PT3H40M
+SUMMARY:CodeRefinery workshop\, March 2022
+UID:0c1f2ee8-b7ef-49b9-b218-fc50490c5940@0c1f.org
+LOCATION:https://coderefinery.github.io/2022-03-22-workshop/
+DTSTAMP:20220428T094656Z
+RRULE:FREQ=DAILY;UNTIL=20220331T090000
+END:VEVENT
+NAME:All events, teaching and internal
+X-WR-CALNAME:All events, teaching and internal
+END:VCALENDAR

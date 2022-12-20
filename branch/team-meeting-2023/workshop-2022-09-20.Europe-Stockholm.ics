@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:/ics.py/2020.1/Europe/Stockholm
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+RDATE:19700329T020000
+TZNAME:CEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+RDATE:19701025T030000
+TZNAME:CET
+END:STANDARD
+LAST-MODIFIED:20200620T153818Z
+X-LIC-LOCATION:Europe/Stockholm
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c3b76e0c-8cb2-4b33-8493-3aed333bdf56@c3b7.org
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220920T085000
+DURATION:PT10M
+SUMMARY:Connecting time
+UID:4c9f37cd-b3d1-4666-9df6-4a299d991566@4c9f.org
+DESCRIPTION:Connect now and hear about us and the course
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220921T085000
+DURATION:PT10M
+SUMMARY:Connecting time
+UID:9ce75886-110a-4c4c-b1f2-3dff2a6dfb0a@9ce7.org
+DESCRIPTION:Connect now and hear about us and the course
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220922T085000
+DURATION:PT10M
+SUMMARY:Connecting time
+UID:bb6cdbd9-c3b2-46d7-9558-9837ed16b7b5@bb6c.org
+DESCRIPTION:Connect now and hear about us and the course
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220927T085000
+DURATION:PT10M
+SUMMARY:Connecting time
+UID:c8f34d08-71ec-479b-a53d-40f6213f71fd@c8f3.org
+DESCRIPTION:Connect now and hear about us and the course
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220928T085000
+DURATION:PT10M
+SUMMARY:Connecting time
+UID:70b9d47e-415a-423a-9c5c-2b6e8cf2f2ba@70b9.org
+DESCRIPTION:Connect now and hear about us and the course
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220929T085000
+DURATION:PT10M
+SUMMARY:Connecting time
+UID:43078a74-f811-4e0a-a196-ecb7ae6e4f6a@4307.org
+DESCRIPTION:Connect now and hear about us and the course
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220920T090000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220920T092000
+SUMMARY:Introduction
+UID:028e194b-0b27-4e96-b847-126d88cbf634@028e.org
+DESCRIPTION:Workshop introduction: 
+ https://github.com/coderefinery/workshop-
+ intro/blob/master/README.md\n\nCodeRefinery workshop 2022 September: 
+ https://coderefinery.github.io/2022-09-20-workshop/\n\nNote: All times are
+  approximate and will be adjusted based on\nthe schedule.  Join at least 
+ 10 minutes early just in case.  At\nleast 10 minute break every hour\, 
+ sometime between xx:50--xx:10.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220920T092000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220920T123000
+SUMMARY:Introduction to version control part 1/2
+UID:2470e901-1a0d-4438-926a-3a57ea1591ec@2470.org
+DESCRIPTION:https://coderefinery.github.io/git-intro/\n\nCodeRefinery 
+ workshop 2022 September: 
+ https://coderefinery.github.io/2022-09-20-workshop/\n\nNote: All times are
+  approximate and will be adjusted based on\nthe schedule.  Join at least 
+ 10 minutes early just in case.  At\nleast 10 minute break every hour\, 
+ sometime between xx:50--xx:10.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220921T090000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220921T123000
+SUMMARY:Introduction to version control part 2/2
+UID:7269de3d-9847-4b3c-a334-f70f26ffb531@7269.org
+DESCRIPTION:https://coderefinery.github.io/git-intro/\n\nCodeRefinery 
+ workshop 2022 September: 
+ https://coderefinery.github.io/2022-09-20-workshop/\n\nNote: All times are
+  approximate and will be adjusted based on\nthe schedule.  Join at least 
+ 10 minutes early just in case.  At\nleast 10 minute break every hour\, 
+ sometime between xx:50--xx:10.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220922T090000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220922T123000
+SUMMARY:Collaborative distributed version control
+UID:7daee1a0-7ecf-4e4d-b39d-066f32a7c599@7dae.org
+DESCRIPTION:https://coderefinery.github.io/git-
+ collaborative/\n\nCodeRefinery workshop 2022 September: 
+ https://coderefinery.github.io/2022-09-20-workshop/\n\nNote: All times are
+  approximate and will be adjusted based on\nthe schedule.  Join at least 
+ 10 minutes early just in case.  At\nleast 10 minute break every hour\, 
+ sometime between xx:50--xx:10.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220927T090000
+DURATION:PT15M
+SUMMARY:Introduction to week 2
+UID:5f183366-d873-4627-be4e-beb478f74dfc@5f18.org
+DESCRIPTION:https://github.com/coderefinery/workshop-
+ intro/blob/master/README.md\n\nCodeRefinery workshop 2022 September: 
+ https://coderefinery.github.io/2022-09-20-workshop/\n\nNote: All times are
+  approximate and will be adjusted based on\nthe schedule.  Join at least 
+ 10 minutes early just in case.  At\nleast 10 minute break every hour\, 
+ sometime between xx:50--xx:10.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220927T090000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220927T111500
+SUMMARY:Reproducible research and FAIR data
+UID:7ce882fc-12fc-4f31-9ef4-9f5a5b2b9cbd@7ce8.org
+DESCRIPTION:https://coderefinery.github.io/reproducible-
+ research/\n\nCodeRefinery workshop 2022 September: 
+ https://coderefinery.github.io/2022-09-20-workshop/\n\nNote: All times are
+  approximate and will be adjusted based on\nthe schedule.  Join at least 
+ 10 minutes early just in case.  At\nleast 10 minute break every hour\, 
+ sometime between xx:50--xx:10.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220927T111500
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220927T123000
+SUMMARY:Social coding and open software
+UID:e8fd3684-ba7d-430f-be81-6cd2d9c16a61@e8fd.org
+DESCRIPTION:https://coderefinery.github.io/social-coding/\n\nCodeRefinery 
+ workshop 2022 September: 
+ https://coderefinery.github.io/2022-09-20-workshop/\n\nNote: All times are
+  approximate and will be adjusted based on\nthe schedule.  Join at least 
+ 10 minutes early just in case.  At\nleast 10 minute break every hour\, 
+ sometime between xx:50--xx:10.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220928T090000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220928T104500
+SUMMARY:Jupyter
+UID:b9e44ba5-1695-4ce9-b49a-b5d05a91034b@b9e4.org
+DESCRIPTION:https://coderefinery.github.io/jupyter/\n\nCodeRefinery 
+ workshop 2022 September: 
+ https://coderefinery.github.io/2022-09-20-workshop/\n\nNote: All times are
+  approximate and will be adjusted based on\nthe schedule.  Join at least 
+ 10 minutes early just in case.  At\nleast 10 minute break every hour\, 
+ sometime between xx:50--xx:10.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220928T104500
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220928T123000
+SUMMARY:Documentation
+UID:9b4d01e5-aa25-48d9-a760-f469f21c5038@9b4d.org
+DESCRIPTION:https://coderefinery.github.io/documentation/\n\nCodeRefinery 
+ workshop 2022 September: 
+ https://coderefinery.github.io/2022-09-20-workshop/\n\nNote: All times are
+  approximate and will be adjusted based on\nthe schedule.  Join at least 
+ 10 minutes early just in case.  At\nleast 10 minute break every hour\, 
+ sometime between xx:50--xx:10.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220929T090000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220929T104500
+SUMMARY:Software testing
+UID:912e42eb-9336-474b-b502-2aa83f05be05@912e.org
+DESCRIPTION:https://coderefinery.github.io/testing/\n\nCodeRefinery 
+ workshop 2022 September: 
+ https://coderefinery.github.io/2022-09-20-workshop/\n\nNote: All times are
+  approximate and will be adjusted based on\nthe schedule.  Join at least 
+ 10 minutes early just in case.  At\nleast 10 minute break every hour\, 
+ sometime between xx:50--xx:10.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220929T110000
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220929T121500
+SUMMARY:Modular code development
+UID:9ef8b2ac-5f72-41ca-b30f-3081f6afabeb@9ef8.org
+DESCRIPTION:https://coderefinery.github.io/modular-type-
+ along/\n\nCodeRefinery workshop 2022 September: 
+ https://coderefinery.github.io/2022-09-20-workshop/\n\nNote: All times are
+  approximate and will be adjusted based on\nthe schedule.  Join at least 
+ 10 minutes early just in case.  At\nleast 10 minute break every hour\, 
+ sometime between xx:50--xx:10.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220929T121500
+DTEND;TZID=/ics.py/2020.1/Europe/Stockholm:20220929T123000
+SUMMARY:Concluding remarks and where to go from here
+UID:fe9aecc2-ae4c-47a6-a6a3-fc98c69e9836@fe9a.org
+DESCRIPTION:https://github.com/coderefinery/workshop-
+ outro/blob/master/README.md\n\nCodeRefinery workshop 2022 September: 
+ https://coderefinery.github.io/2022-09-20-workshop/\n\nNote: All times are
+  approximate and will be adjusted based on\nthe schedule.  Join at least 
+ 10 minutes early just in case.  At\nleast 10 minute break every hour\, 
+ sometime between xx:50--xx:10.
+LOCATION:https://twitch.tv/coderefinery
+DTSTAMP:20221220T001516Z
+END:VEVENT
+END:VCALENDAR

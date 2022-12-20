@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:/ics.py/2020.1/Europe/Stockholm
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+RDATE:19700329T020000
+TZNAME:CEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+RDATE:19701025T030000
+TZNAME:CET
+END:STANDARD
+LAST-MODIFIED:20200620T153818Z
+X-LIC-LOCATION:Europe/Stockholm
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220131T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:02ea017f-79ca-45d1-b788-ab4b9854a84b@02ea.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220228T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:8b703387-1628-4d0b-b654-57f6d312286f@8b70.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220404T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:8858aaf1-c283-4250-91cd-d451b74e5dee@8858.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220502T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:4c55fb69-e407-4ac0-989e-7737e633d467@4c55.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220606T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:d8a36b72-bc4d-4506-b613-dfc83bae12aa@d8a3.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220704T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:ff199c31-a6c3-47ca-9bee-5f85c3a1aef4@ff19.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220801T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:0ba17215-625d-4ede-b919-0200ff9095d6@0ba1.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20220905T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:7f348a37-f8ba-425f-8157-f0f5ccfebbcf@7f34.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20221003T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:de3d6abe-93fa-425e-b2cd-af5c6640dedd@de3d.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20221107T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:7959c5c2-cf73-4a38-b6d7-aa84625f9636@7959.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Stockholm:20221205T140000
+DURATION:PT1H
+SUMMARY:CodeRefinery Community call
+UID:6f01ea1c-7228-4ee8-8857-c0f6628282c6@6f01.org
+DESCRIPTION:CodeRefinery community meeting\, everyone is most 
+ welcome!\n\nAgenda/connection details: 
+ https://hackmd.io/@coderefinery/community-call
+LOCATION:https://hackmd.io/@coderefinery/community-call
+DTSTAMP:20220428T094656Z
+END:VEVENT
+NAME:CodeRefinery community calls
+X-WR-CALNAME:CodeRefinery community calls
+END:VCALENDAR

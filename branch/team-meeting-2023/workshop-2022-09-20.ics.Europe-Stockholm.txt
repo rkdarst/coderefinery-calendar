@@ -1,0 +1,246 @@
+Location: https://twitch.tv/coderefinery
+
+
+----------
+Subject:  Connecting time
+Start:    Tuesday, 20 September 2022, 08:50 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+Connect now and hear about us and the course
+
+
+----------
+Subject:  Connecting time
+Start:    Wednesday, 21 September 2022, 08:50 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+Connect now and hear about us and the course
+
+
+----------
+Subject:  Connecting time
+Start:    Thursday, 22 September 2022, 08:50 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+Connect now and hear about us and the course
+
+
+----------
+Subject:  Connecting time
+Start:    Tuesday, 27 September 2022, 08:50 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+Connect now and hear about us and the course
+
+
+----------
+Subject:  Connecting time
+Start:    Wednesday, 28 September 2022, 08:50 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+Connect now and hear about us and the course
+
+
+----------
+Subject:  Connecting time
+Start:    Thursday, 29 September 2022, 08:50 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+Connect now and hear about us and the course
+
+
+----------
+Subject:  Introduction
+Start:    Tuesday, 20 September 2022, 09:00 CEST
+End:      Tuesday, 20 September 2022, 09:20 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+Workshop introduction: https://github.com/coderefinery/workshop-intro/blob/master/README.md
+
+CodeRefinery workshop 2022 September: https://coderefinery.github.io/2022-09-20-workshop/
+
+Note: All times are approximate and will be adjusted based on
+the schedule.  Join at least 10 minutes early just in case.  At
+least 10 minute break every hour, sometime between xx:50--xx:10.
+
+
+----------
+Subject:  Introduction to version control part 1/2
+Start:    Tuesday, 20 September 2022, 09:20 CEST
+End:      Tuesday, 20 September 2022, 12:30 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://coderefinery.github.io/git-intro/
+
+CodeRefinery workshop 2022 September: https://coderefinery.github.io/2022-09-20-workshop/
+
+Note: All times are approximate and will be adjusted based on
+the schedule.  Join at least 10 minutes early just in case.  At
+least 10 minute break every hour, sometime between xx:50--xx:10.
+
+
+----------
+Subject:  Introduction to version control part 2/2
+Start:    Wednesday, 21 September 2022, 09:00 CEST
+End:      Wednesday, 21 September 2022, 12:30 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://coderefinery.github.io/git-intro/
+
+CodeRefinery workshop 2022 September: https://coderefinery.github.io/2022-09-20-workshop/
+
+Note: All times are approximate and will be adjusted based on
+the schedule.  Join at least 10 minutes early just in case.  At
+least 10 minute break every hour, sometime between xx:50--xx:10.
+
+
+----------
+Subject:  Collaborative distributed version control
+Start:    Thursday, 22 September 2022, 09:00 CEST
+End:      Thursday, 22 September 2022, 12:30 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://coderefinery.github.io/git-collaborative/
+
+CodeRefinery workshop 2022 September: https://coderefinery.github.io/2022-09-20-workshop/
+
+Note: All times are approximate and will be adjusted based on
+the schedule.  Join at least 10 minutes early just in case.  At
+least 10 minute break every hour, sometime between xx:50--xx:10.
+
+
+----------
+Subject:  Introduction to week 2
+Start:    Tuesday, 27 September 2022, 09:00 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://github.com/coderefinery/workshop-intro/blob/master/README.md
+
+CodeRefinery workshop 2022 September: https://coderefinery.github.io/2022-09-20-workshop/
+
+Note: All times are approximate and will be adjusted based on
+the schedule.  Join at least 10 minutes early just in case.  At
+least 10 minute break every hour, sometime between xx:50--xx:10.
+
+
+----------
+Subject:  Reproducible research and FAIR data
+Start:    Tuesday, 27 September 2022, 09:00 CEST
+End:      Tuesday, 27 September 2022, 11:15 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://coderefinery.github.io/reproducible-research/
+
+CodeRefinery workshop 2022 September: https://coderefinery.github.io/2022-09-20-workshop/
+
+Note: All times are approximate and will be adjusted based on
+the schedule.  Join at least 10 minutes early just in case.  At
+least 10 minute break every hour, sometime between xx:50--xx:10.
+
+
+----------
+Subject:  Social coding and open software
+Start:    Tuesday, 27 September 2022, 11:15 CEST
+End:      Tuesday, 27 September 2022, 12:30 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://coderefinery.github.io/social-coding/
+
+CodeRefinery workshop 2022 September: https://coderefinery.github.io/2022-09-20-workshop/
+
+Note: All times are approximate and will be adjusted based on
+the schedule.  Join at least 10 minutes early just in case.  At
+least 10 minute break every hour, sometime between xx:50--xx:10.
+
+
+----------
+Subject:  Jupyter
+Start:    Wednesday, 28 September 2022, 09:00 CEST
+End:      Wednesday, 28 September 2022, 10:45 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://coderefinery.github.io/jupyter/
+
+CodeRefinery workshop 2022 September: https://coderefinery.github.io/2022-09-20-workshop/
+
+Note: All times are approximate and will be adjusted based on
+the schedule.  Join at least 10 minutes early just in case.  At
+least 10 minute break every hour, sometime between xx:50--xx:10.
+
+
+----------
+Subject:  Documentation
+Start:    Wednesday, 28 September 2022, 10:45 CEST
+End:      Wednesday, 28 September 2022, 12:30 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://coderefinery.github.io/documentation/
+
+CodeRefinery workshop 2022 September: https://coderefinery.github.io/2022-09-20-workshop/
+
+Note: All times are approximate and will be adjusted based on
+the schedule.  Join at least 10 minutes early just in case.  At
+least 10 minute break every hour, sometime between xx:50--xx:10.
+
+
+----------
+Subject:  Software testing
+Start:    Thursday, 29 September 2022, 09:00 CEST
+End:      Thursday, 29 September 2022, 10:45 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://coderefinery.github.io/testing/
+
+CodeRefinery workshop 2022 September: https://coderefinery.github.io/2022-09-20-workshop/
+
+Note: All times are approximate and will be adjusted based on
+the schedule.  Join at least 10 minutes early just in case.  At
+least 10 minute break every hour, sometime between xx:50--xx:10.
+
+
+----------
+Subject:  Modular code development
+Start:    Thursday, 29 September 2022, 11:00 CEST
+End:      Thursday, 29 September 2022, 12:15 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://coderefinery.github.io/modular-type-along/
+
+CodeRefinery workshop 2022 September: https://coderefinery.github.io/2022-09-20-workshop/
+
+Note: All times are approximate and will be adjusted based on
+the schedule.  Join at least 10 minutes early just in case.  At
+least 10 minute break every hour, sometime between xx:50--xx:10.
+
+
+----------
+Subject:  Concluding remarks and where to go from here
+Start:    Thursday, 29 September 2022, 12:15 CEST
+End:      Thursday, 29 September 2022, 12:30 CEST
+Location: https://twitch.tv/coderefinery
+Description:
+
+https://github.com/coderefinery/workshop-outro/blob/master/README.md
+
+CodeRefinery workshop 2022 September: https://coderefinery.github.io/2022-09-20-workshop/
+
+Note: All times are approximate and will be adjusted based on
+the schedule.  Join at least 10 minutes early just in case.  At
+least 10 minute break every hour, sometime between xx:50--xx:10.
